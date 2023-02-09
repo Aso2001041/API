@@ -1,1 +1,1 @@
-ssh -1 techthon-user-3 35.194.101.87
+ssh techthon-user-335.194.101.87
